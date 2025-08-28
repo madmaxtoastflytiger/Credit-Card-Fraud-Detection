@@ -1,0 +1,2 @@
+the csv data was too large but it's from this address:
+https://www.kaggle.com/datasets/erak1006/capstone-credit-card-fraud-detection
